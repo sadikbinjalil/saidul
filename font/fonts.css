@@ -1,0 +1,66 @@
+
+@font-face {
+  font-family: 'CooperBT-Bold';
+  src: url('CooperBT-Bold.ttf') format('truetype'),
+       url('CooperBT-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Tiempo-Italic';
+  src: url('Tiempo Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Exo-DemiBold';
+  src: url('Exo-DemiBold.ttf') format('truetype'),
+       url('Exo-DemiBold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Calibre';
+  src: url('Calibre.ttf') format('truetype'),
+       url('Calibre.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Calibre Web";
+  src: url('Calibre Web.ttf') format('truetype'),
+      url('Calibre Web.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+}
+
+@font-face {
+  font-family: "CircularStd-Book";
+  src: url('CircularStd-Book.ttf') format('truetype'),
+      url('CircularStd-Book.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+}
+
+@font-face {
+  font-family: "CooperBT-Light";
+  src: url('CooperBT-Light.ttf') format('truetype'),
+      url('CooperBT-Light.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+}
+
+@font-face {
+  font-family: "CooperBT-LightItalic";
+  src: url('CooperBT-LightItalic.ttf') format('truetype'),
+      url('CooperBT-LightItalic.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+}
+
